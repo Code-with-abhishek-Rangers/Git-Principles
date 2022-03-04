@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+header{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    border-bottom: 4px solid white;
+}
+button{
+    background-color: white;
+    color: black; 
+    padding: 10px;
+    border: none;
+}
